@@ -22,7 +22,8 @@ A = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B = np.linalg.inv(A)
 print(B)
 ```
-## Output:![Screenshot (7) - Copy](https://user-images.githubusercontent.com/118708624/209432406-34c7dc1c-128e-462d-9fc6-d6a2e812e11b.png)
+## Output:
+![Screenshot (26)](https://user-images.githubusercontent.com/118708624/213873134-ce3cbf12-0edd-4453-967e-49df7a8716ed.png)
 
 
 
